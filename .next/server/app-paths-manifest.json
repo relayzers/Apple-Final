@@ -1,0 +1,6 @@
+{
+  "/page": "app/page.js",
+  "/homepage/page": "app/homepage/page.js",
+  "/iphone/page": "app/iphone/page.js",
+  "/appstore/page": "app/appstore/page.js"
+}
